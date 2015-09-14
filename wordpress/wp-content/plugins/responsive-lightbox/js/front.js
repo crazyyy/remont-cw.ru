@@ -1,7 +1,7 @@
 ( function ( $ ) {
 
 	$( document ).on( 'ready' + rlArgs.customEvents, function () {
-		
+
 		// initialise event
 		$.event.trigger( {
 			type		: 'doResponsiveLightbox',
@@ -121,7 +121,7 @@
 					// for some browsers, `attr` is undefined; for others,
 					// `attr` is false.  Check for both.
 					if ( typeof attr !== typeof undefined && attr !== false ) {
-						var match = attr.match( new RegExp( rlArgs.selector + '\\[(gallery\\-(?:[\\da-z]{1,4}))\\]', 'ig' ) );
+						var match = attr.match( new RegExp( rlArgs.selector + '\\-(gallery\\-(?:[\\da-z]{1,4}))', 'ig' ) );
 						
 						if ( match !== null ) {
 							$( this ).attr( 'data-lightbox-gallery', match[0] );
@@ -205,7 +205,7 @@
 							infinite			: ( rlArgs.infinite === '1' ? true : false ),
 							autoplay				: {
 								play				: ( rlArgs.autoplay === '1' ? true : false ),
-								pauseOnHover		: ( rlArgs.pause_on_hover === '1' ? true : false ),
+								pauseOnHover		: ( rlArgs.pauseOnHover === '1' ? true : false ),
 								timeout 			: rlArgs.timeout
 							},
 							effect					: rlArgs.effect,
@@ -216,10 +216,11 @@
 							},
 							pagination				: {
 								add						: ( rlArgs.pagination === '1' ? true : false ),
-								type					: rlArgs.pagination_type
+								type					: rlArgs.paginationType
 							},
 							// forced
 							show					: false,
+							buttons					: true,
 							caption					: {
 								add						: true,
 								attributes				: ["title"]
