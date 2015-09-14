@@ -1,6 +1,6 @@
 // Font Sizes
 $base-font-size: 1em;
-$base-font-family: 'Open Sans', sans-serif;
+$base-font-family: 'Roboto Condensed', sans-serif;
 $heading-font-family: $base-font-family;
 
 // Line height
@@ -9,7 +9,7 @@ $heading-line-height: 1.2;
 
 // Other Sizes
 $width: 980px;
-$footer: 50px;
+$footer: 240px;
 $footer_margin: $footer - 2 * $footer;
 $base-border-radius: 3px;
 $base-spacing: $base-line-height * 1em;
@@ -19,19 +19,22 @@ $base-z-index: 0;
 // Colors
 $blue: #477dca;
 $dark-gray: #333;
+$gray: #505050;
 $medium-gray: #999;
-$light-gray: #ddd;
+$light-gray: #d4d4d4;
+$dark-orange: #aa603d;
+$violet: #44374b;
 
 // Font Colors
-$base-font-color: $dark-gray;
-$action-color: $blue;
+$base-font-color: $gray;
+$action-color: $dark-orange;
 
 // Border
 $base-border-color: $light-gray;
 $base-border: 1px solid $base-border-color;
 
 // Background Colors
-$base-background-color: #fff;
+$base-background-color: #f1efeb;
 $secondary-background-color: tint($base-border-color, 75%);
 
 // Forms
@@ -43,3 +46,10 @@ $trs: all .15s;
 $base-duration: 150ms;
 $base-timing: ease;
 $base-transition: background-color $base-duration * 5 $base-timing, color $base-duration * 0.7 $base-timing, opacity $base-duration * 0.3 $base-timing;
+
+.base-gradient {
+  @include linear-gradient(#63506c, #3f3d58);
+}
+.base-gradient-invert {
+  @include linear-gradient(#3f3d58, #63506c);
+}
