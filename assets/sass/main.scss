@@ -336,18 +336,46 @@ footer {
     @extend .justify-child;
     li {
       display: inline-block;
-border-radius: 50%;
+
       width: 36px;
       height: 36px;
+
+      border-radius: 50%;
       a {
-        border-radius: 50%;
+        display: block;
+
         width: 100%;
         height: 100%;
-        display: block;
-background-color: red;
+
         opacity: .8;
+        border-radius: 50%;
         &:hover {
           opacity: 1;
+        }
+      }
+      &:nth-child(1) {
+        a {
+          @include sprite($sprite-ico-fb);
+        }
+      }
+      &:nth-child(2) {
+        a {
+          @include sprite($sprite-ico-tw);
+        }
+      }
+      &:nth-child(3) {
+        a {
+          @include sprite($sprite-ico-tm);
+        }
+      }
+      &:nth-child(4) {
+        a {
+          @include sprite($sprite-ico-od);
+        }
+      }
+      &:nth-child(5) {
+        a {
+          @include sprite($sprite-ico-vk);
         }
       }
     }
