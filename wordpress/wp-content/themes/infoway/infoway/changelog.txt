@@ -1,7 +1,0 @@
-== Changelog ==
-
-= Theme Name: infoway Pro Responsive=
-
-= Version: 1.0 =
-
-* * infoway Theme is created on 10/01/2013.
