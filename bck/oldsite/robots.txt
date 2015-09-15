@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: *openstat*
+Disallow: *utm*
+Disallow: /*search
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: *respond*
+Disallow: *wppa*
+Host: remont-cw.ru
+Sitemap: http://remont-cw.ru/sitemap.xml

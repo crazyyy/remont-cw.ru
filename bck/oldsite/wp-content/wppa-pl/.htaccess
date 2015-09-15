@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /wp-content/wppa-pl
+RewriteRule ^Под-ключ/(.*) /wp-content/uploads/wppa-source/album-2/$1 [NC]
+RewriteRule ^Косметический/(.*) /wp-content/uploads/wppa-source/album-5/$1 [NC]
+RewriteRule ^Евроремонт/(.*) /wp-content/uploads/wppa-source/album-4/$1 [NC]
+RewriteRule ^Ванны-комнаты-фото/(.*) /wp-content/uploads/wppa-source/album-1/$1 [NC]
+RewriteRule ^В-новостройке/(.*) /wp-content/uploads/wppa-source/album-3/$1 [NC]
+RewriteRule ^Peredelkina/(.*) /wp-content/uploads/wppa-source/album-11/$1 [NC]
+RewriteRule ^New-Album-10/(.*) /wp-content/uploads/wppa-source/album-10/$1 [NC]
+RewriteRule ^New-Album/(.*) /wp-content/uploads/wppa-source/album-7/$1 [NC]
+RewriteRule ^New-Album/(.*) /wp-content/uploads/wppa-source/album-12/$1 [NC]
+</IfModule>

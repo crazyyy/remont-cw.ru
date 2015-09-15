@@ -1,0 +1,351 @@
+# Copyright (C) 2012 Infoway Theme Pro
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Infoway Theme Pro 1.0\n"
+"Report-Msgid-Bugs-To: admin@inkthemes.comPOT-Creation-Date: 2012-01-11 "
+"12:47:23+00:00\n"
+"POT-Creation-Date: 2013-02-14 13:20+0200\n"
+"PO-Revision-Date: 2013-02-14 13:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:27
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Что-то пошло не так."
+
+#: ../404.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+"Похоже, мы не смогли найти то, что вы искали. Попробуйте воспользоваться "
+"формой поиска или одной из ссылок ниже."
+
+#: ../404.php:38
+#, fuzzy
+msgid "Most Used Categories"
+msgstr "Самые используемые рубрики."
+
+#: ../archive.php:24
+#, fuzzy
+msgid "Blog Archives"
+msgstr "Архив сайта: %s"
+
+#: ../blog.php:54 ../front-page.php:50 ../front-page.php:65
+#: ../front-page.php:80 ../loop.php:34
+msgid "Read More"
+msgstr "Далее"
+
+#: ../blog.php:61 ../loop.php:42 ../single.php:52
+msgid "Sorry, no posts matched your criteria."
+msgstr "К сожалению, по вашему запросу ничего не найдено."
+
+#: ../comments.php:1
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Эта запись защищена паролем. Пожалуйста, введите его для просмотра "
+"комментариев."
+
+#: ../comments.php:1
+msgid "so far."
+msgstr "на данный момент."
+
+#: ../comments.php:1
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: ../comments.php:1
+msgid "Leave a Comment"
+msgstr "Ваш комментарий"
+
+#: ../comments.php:1
+msgid "You must be"
+msgstr "Вы должны"
+
+#: ../comments.php:1
+msgid "logged in"
+msgstr "войти"
+
+#: ../comments.php:1
+msgid "to post a comment."
+msgstr "для комментирования"
+
+#: ../footer.php:36
+msgid ""
+"<a href=\"http://www.inkthemes.com\">Infoway Theme</a> работает на <a href="
+"\"http://www.wordpress.org\">WordPress</a>."
+msgstr ""
+
+#: ../front-page.php:27
+msgid ""
+"No Cost, Free To Use & With Single Click Installation. Use Infoway Now & "
+"Make beautiful Website &amp; Astonish Everyone."
+msgstr ""
+"Бесплатная тема. Используйте Infoway для создания восхитительных сайтов."
+
+#: ../front-page.php:42
+msgid "Easy to Customize"
+msgstr "Простая настройка"
+
+#: ../front-page.php:47
+msgid ""
+"An Infoway is a WordPress theme which is easily customizable. You can "
+"customize the theme as per your requirement. The theme provides an exiting "
+"benefit to your websites. It also features a clean design and sure you will "
+"be more happier to use it"
+msgstr ""
+"Infoway - это чистый дизайн и масса настроек, которые можно использовать "
+"только тогда, когда это необходимо"
+
+#: ../front-page.php:57
+msgid "Build Site Quickly"
+msgstr "Создайте свой сайт быстро"
+
+#: ../front-page.php:62
+msgid ""
+"The Infoway Wordpress Theme is highly optimized for speed, so that your "
+"website loads faster as compared to others. The themes is compatible with "
+"all major browsers. Also it provides eye captivating appearance to your "
+"website."
+msgstr ""
+"Infoway оптимизирована для быстрой загрузки. Совместима со всеми основными "
+"браузерами. "
+
+#: ../front-page.php:72
+msgid "Search Optimized"
+msgstr "Оптимизирована для поисковых систем"
+
+#: ../front-page.php:77
+msgid ""
+"A Premium WordPress Theme with single click installation. Just a click and "
+"your website is ready to use. Infoway theme is better suitable for any "
+"business or personal website. The theme is compatible with various niches."
+msgstr ""
+"Премиум-тема WordPress с инсталляцией в один клик. Подходит для бизнеса и "
+"личных сайтов. "
+
+#: ../front-page.php:108
+msgid "What Our Clients Say"
+msgstr "Что говорят наши клиенты"
+
+#: ../front-page.php:113
+msgid ""
+"Infoway was one of the most easiest theme to work with. My Clients loved "
+"their websites built using Infoway Theme. I highly recommend it to anyone "
+"want to build a business site."
+msgstr ""
+"Infoway - одна из наиболее простых тем в настройке. Клиенты любят их сайты, "
+"сделанные с помощью Infoway."
+
+#: ../header.php:75
+msgid ""
+"Your most important notice information for site visitors with a link can "
+"come here."
+msgstr "Самое важное сообщение для посетителей вашего сайта."
+
+#: ../header.php:85
+msgid "Click Here"
+msgstr "Нажмите сюда"
+
+#: ../header.php:109
+msgid "Tap To Call"
+msgstr "Коснитесь для звонка"
+
+#: ../header.php:112
+msgid "Call 24 Hours: 1.888.222.5847"
+msgstr "Звоните нам 24 часа в сутки: 1.888.222.5847"
+
+#: ../header.php:121
+msgid "Pages Navigation Menu"
+msgstr "Меню навигации по страницам"
+
+#: ../loop.php:22 ../single.php:26
+msgid "By"
+msgstr "Автор:"
+
+#: ../search.php:29
+#, fuzzy
+msgid "Nothing Found"
+msgstr "Ничего не найдено."
+
+#: ../search.php:35
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"К сожалению, по вашему запросу ничего не найдено. Пожалуйста, попробуйте "
+"снова с другим ключевым словом."
+
+#: ../sidebar-footer.php:6
+msgid "About Setting Footer"
+msgstr "О настройке"
+
+#: ../sidebar-footer.php:8
+msgid ""
+"You can setup this footer area from the Widgets Section. Go to Appearance "
+"Widgets and drag and drop your required widget in footer."
+msgstr "Вы можете настроить нижнюю часть сайта с помощью виджетов."
+
+#: ../sidebar-footer.php:17
+#, fuzzy
+msgid "Archives Widget"
+msgstr "Архивы"
+
+#: ../sidebar-footer.php:19
+msgid "January 2010"
+msgstr "Январь 2012"
+
+#: ../sidebar-footer.php:20
+msgid "December 2009"
+msgstr "Декабрь 2009"
+
+#: ../sidebar-footer.php:21
+msgid "November 2009"
+msgstr "Ноябрь 2009"
+
+#: ../sidebar-footer.php:22
+msgid "October 2009"
+msgstr "Октябрь 2009"
+
+#: ../sidebar-footer.php:32 ../sidebar.php:7
+msgid "Categories"
+msgstr "Рубрики"
+
+#: ../sidebar-footer.php:34
+msgid "Entertainment"
+msgstr "Развлечения"
+
+#: ../sidebar-footer.php:35
+msgid "Technology"
+msgstr "Технология"
+
+#: ../sidebar-footer.php:36
+msgid "Template Design"
+msgstr "Дизайн шаблона"
+
+#: ../sidebar-footer.php:37
+msgid "Sports & Recreation"
+msgstr "Спорт"
+
+#: ../sidebar-footer.php:38
+msgid "Jobs & Lifestyle"
+msgstr "Работа"
+
+#: ../sidebar.php:3
+msgid "Search:"
+msgstr "Поиск:"
+
+#: ../sidebar.php:15
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../single.php:29
+msgid "Posted in"
+msgstr "Рубрика:"
+
+#~ msgid "&larr; Older posts"
+#~ msgstr "&larr; Предыдущие публикации"
+
+#~ msgid "Newer posts &rarr;"
+#~ msgstr "Следующие публикации &rarr;"
+
+#~ msgid "Category Archives:"
+#~ msgstr "Рубрика:"
+
+#~ msgid "Page: "
+#~ msgstr "Страница:"
+
+#~ msgid "Search Results for:"
+#~ msgstr "Результаты поиска для:"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "Метка:  %s"
+
+#~ msgid "Try looking in the monthly archives."
+#~ msgstr "Попробуйте поискать в подшивке по месяцам."
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "Ежедневный архив: %s"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "Ежемесячный архив: %s"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "Ежегодный архив: %s"
+
+#~ msgid "Author Archives: %s"
+#~ msgstr "Архив автора: %s"
+
+#~ msgid "About %s"
+#~ msgstr "Об авторе %s"
+
+#~ msgid "Main Menu"
+#~ msgstr "Главное меню"
+
+#~ msgid "Home"
+#~ msgstr "Главная"
+
+#~ msgid "Page"
+#~ msgstr "Страница"
+
+#~ msgid ""
+#~ "This entry was posted in %1$s and tagged %2$s. Bookmark the permalink"
+#~ msgstr ""
+#~ "Опубликовано в рубрике %1$s. Метки: %2$s. Вы можете добавить постоянную "
+#~ "ссылку в закладки."
+
+#~ msgid "This entry was posted in %1$s. Bookmark the permalink"
+#~ msgstr ""
+#~ "Опубликовано в рубрике %1$s. Вы можете добавить постоянную ссылку в "
+#~ "закладки."
+
+#~ msgid "Bookmark the permalink"
+#~ msgstr "Вы можете добавить постоянную ссылку в закладки."
+
+#~ msgid "Primary Widget Area"
+#~ msgstr "Основная область виджетов"
+
+#~ msgid "The primary widget area"
+#~ msgstr "Основная область виджетов"
+
+#~ msgid "Secondary Widget Area"
+#~ msgstr "Дополнительная область виджетов"
+
+#~ msgid "The secondary widget area"
+#~ msgstr "Дополнительная область виджетов"
+
+#~ msgid "Home Page Right Feature Widget Area"
+#~ msgstr "Область виджетов Избранного справа на главной"
+
+#~ msgid "First Footer Widget Area"
+#~ msgstr "Первая область виджетов в подвале"
+
+#~ msgid "The first footer widget area"
+#~ msgstr "Первая область виджетов в подвале"
+
+#~ msgid "Second Footer Widget Area"
+#~ msgstr "Вторая область виджетов в подвале"
+
+#~ msgid "The second footer widget area"
+#~ msgstr "Вторая область виджетов в подвале"
+
+#~ msgid "Third Footer Widget Area"
+#~ msgstr "Третья область виджетов в подвале"
+
+#~ msgid "The third footer widget area"
+#~ msgstr "Третья область виджетов в подвале"
+
+#~ msgid "Fourth Footer Widget Area"
+#~ msgstr "Четвертая область виджетов в подвале"
+
+#~ msgid "The fourth footer widget area"
+#~ msgstr "Четвертая область виджетов в подвале"
